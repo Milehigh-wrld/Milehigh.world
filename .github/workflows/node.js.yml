@@ -74,6 +74,17 @@ jobs:
     # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm.
     cache: # optional
     # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
-    cache-dependency-path: # optional
+    cache-dependency-path: #             - name: Cloud Maker Deploy
+  # You may pin to the exact commit or the version.
+  # uses: cloud-maker-ai/github-action-deploy@f86239fb28b589a9898a361b3df1dac5f3d3fc8f
+  uses: cloud-maker-ai/github-action-deploy@v1.0.1
+  with:
+    # Cloud Maker API Token
+    CLOUD_MAKER_TOKEN: 
+    # Cloud Maker Pipeline ID to be deployed
+    CLOUD_MAKER_PIPELINE_ID: 
+    # Cloud Maker Stage ID to be deployed
+    CLOUD_MAKER_STAGE_ID: 
+          
 
   
