@@ -16,4 +16,6 @@ Milehigh.world provides a platform for musicians to receive feedback and critiqu
 9.Music Library and Distribution:
 Milehigh.world has a music library where musicians can showcase their work and make it available for licensing opportunities. This allows musicians to monetize their music and reach a wider audience. The platform also offers distribution services, enabling musicians to release their music on various streaming platforms and digital stores.
 
-These additional features and resources provided by Milehigh.world further enhance the learning and growth opportunities for musicians. They aim to provide a comprehensive ecosystem that supports musicians in their creative journey, facilitates collaboration and networking, and equips them with the knowledge and tools necessary to succeed in the music industry.![PNG image 9_Original](https://github.com/Nube-Nueve/Milehigh.world/assets/156398777/e7dcd74e-c413-4b81-8a71-57725c803477)
+These additional features and resources provided by Milehigh.world further enhance the learning and growth opportunities for musicians. They aim to provide a comprehensive ecosystem that supports musicians in their creative journey, facilitates collaboration and networking, and equips them with the knowledge and tools necessary to succeed in the music industry.
+
+
