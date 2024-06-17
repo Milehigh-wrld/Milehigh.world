@@ -22,3 +22,12 @@ public class CreateAccount {
 
         // Submit the transaction to a Hedera network
         TransactionResponse txResponse = transaction​⬤
+        
+        //Create an account with 1,000 hbar
+AccountCreateTransaction transaction = new AccountCreateTransaction()
+    // The only _required_ property here is `key`
+    .setKey(newKey.getPublicKey())
+    .setInitialBalance(new Hbar(1000));
+
+//Return the key on the account
+Key accountKey = transaction.getKey();
