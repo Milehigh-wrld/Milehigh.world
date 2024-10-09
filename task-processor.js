@@ -9,7 +9,8 @@ class TaskProcessor {
   addTask(taskFn) {
     this.taskQueue.push({
       taskFn,
-      retries: 99,
+      retries: 0
+      ,
     });
   }
 
