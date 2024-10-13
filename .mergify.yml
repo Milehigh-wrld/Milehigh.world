@@ -1,0 +1,4 @@
+queue_rules:
+  - allow_queue_branch_edit: true
+    queue_branch_merge_method: fast-forward
+    update_method: merge
